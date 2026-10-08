@@ -1,0 +1,9 @@
+*.iso
+*.7z
+*.zip
+*.rar
+*.xbe
+*.xex
+xdvdfs.exe
+.DS_Store
+Thumbs.db
